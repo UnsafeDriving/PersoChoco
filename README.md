@@ -21,7 +21,7 @@ Luxe.
 Nous produisons des produits d'haute qualité, avec des produits de première qualité bio.
 
 ### Marque ###
-Notre marque sera perçu comme une marque de luxe, avec des produits personalisables et de excelente qualité.
+Notre marque sera perçu comme une marque de luxe, avec des produits personalisables et de excellente qualité.
 
 ### Accessoires ###
 
@@ -31,7 +31,7 @@ Possibilité de choisir le packaging :
 - Logo.
 - Titre.
 - Description.
-- Coleur
+- Couleur
 
 ### Prestations (Annexes) ###
 
