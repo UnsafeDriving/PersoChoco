@@ -1,0 +1,16 @@
+PersoChoco
+----------
+
+Chocolat personnalisable (forme, type (lait, noir ...), fourré ou non ...) et possibilité de graver un message ou une image sur le chocolat/emballage.
+
+
+Public-cible :
+   - Entreprises
+   - Particuliers
+   - Uniquement par internet.
+
+Description du produit :
+   - Caractéristique du produit :
+      * voir si dessus
+   - Qualité : 
+      * Haute qualité
