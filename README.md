@@ -1,40 +1,108 @@
-# PersoChoco #
+PersoChoco
+==========
 
-## Membres ##
-- FERREIRA Mario
-- DUCHOUD Thibaud
+Membres
+-------
 
-## Public-cible ##
-La vente se réalisera uniquement par Internet. Les chocolats produits seront en quantité limité. Possibilité d'achat par :
-- Entreprises.
-- Particuliers.
+-   FERREIRA Mario
 
-## Description du produit ##
+-   DUCHOUD Thibaud
 
-### Caractéristique du produit ###
-Chocolat personnalisable (forme, type (lait, noir ...), fourré ou non ...) et possibilité de graver un message ou une image sur le chocolat/emballage.
+ 
 
-### Assortiment / Gamme ###
-Luxe.
+Public-cible
+------------
 
-### Qualité  ###
-Nous produisons des produits d'haute qualité, avec des produits de première qualité bio.
+La vente se réalisera uniquement par Internet. Les chocolats produits seront en
+quantité limité. Possibilité d'achat par :
 
-### Marque ###
-Notre marque sera perçu comme une marque de luxe, avec des produits personalisables et de excellente qualité.
+-   Entreprises.
 
-### Accessoires ###
+-   Particuliers.
 
-### Packaging ###
+ 
+
+Description du produit
+----------------------
+
+### Caractéristique du produit
+
+Chocolat personnalisable (forme, type (lait, noir ...), fourré ou non ...) et
+possibilité de graver un message ou une image sur le chocolat/emballage.
+
+ 
+
+### Assortiment / Gamme
+
+Nos produits visent une clientèle d’exception qui veut des chocolats de luxe à
+leur image.
+
+ 
+
+### Qualité
+
+Nous produisons des produits d'haute qualité, avec des matières premières de
+premier choix ainsi qu’une production à l’unité.
+
+ 
+
+### Marque
+
+Notre marque sera perçu comme une marque de luxe, avec des produits
+personnalisables et d’excellente qualité.
+
+ 
+
+### Accessoires
+
+ 
+
+### Packaging
+
 Possibilité de choisir le packaging :
-- Format de la boîte.
-- Logo.
-- Titre.
-- Description.
-- Couleur
 
-### Prestations (Annexes) ###
+-   Format de la boîte.
 
-## Modèle 3D ##
+-   Logo.
 
+-   Titre.
 
+-   Description.
+
+-   Couleur
+
+ 
+
+### Prestations (Annexes)
+
+ 
+
+Modèle 3D
+---------
+
+ 
+
+Brevet
+------
+
+ 
+
+Processus de production / vente
+-------------------------------
+
+ 
+
+Prix
+----
+
+ 
+
+Objectifs commerciaux 
+----------------------
+
+### Rentabilité
+
+ 
+
+Plan de trésorerie
+------------------
