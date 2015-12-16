@@ -55,6 +55,7 @@ personnalisables et d’excellente qualité.
 
 ### Accessoires
 
+Le client pourra, au moment de la commande des chocolats, choisir l'emballage cadeau.
  
 
 ### Packaging
@@ -80,12 +81,12 @@ Possibilité de choisir le packaging :
 Modèle 3D
 ---------
 
- 
+ Annexe (lien).
 
 Brevet
 ------
 
- 
+ Annexe (lien).
 
 Processus de production / vente
 -------------------------------
