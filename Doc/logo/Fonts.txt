@@ -1,0 +1,26 @@
+Fonts used in this design;
+
+Font: EastMarket, 
+Author: Nick's Fonts, 
+Url: http://www.fontsquirrel.com/fonts/EastMarket; 
+
+Font: Leckerli One, 
+Author: Gesine Todt, 
+Url: http://www.fontsquirrel.com/fonts/leckerli-one; 
+
+Font: Lobster Two, 
+Author: Impallari Type, 
+Url: http://www.fontsquirrel.com/fonts/lobster-two; 
+
+Font: Quicksand, 
+Author: Andrew Paglinawan, 
+Url: http://www.fontsquirrel.com/fonts/quicksand; 
+
+Font: Roboto, 
+Author: Christian Robertson, 
+Url: http://www.fontsquirrel.com/fonts/roboto; 
+
+Font: Yellowtail, 
+Author: Astigmatic, 
+Url: http://www.fontsquirrel.com/fonts/yellowtail; 
+
